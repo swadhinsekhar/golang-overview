@@ -47,7 +47,7 @@ func main() {
 
 ---
 
-## When to use os.Exit() and panic()?
+## When to use `os.Exit()` and `panic()`?
 
 Now, os.Exit and panic are quite different. panic is used when the program, or its part, has reached an unrecoverable state.
 
